@@ -28,18 +28,28 @@ we cannot run this model on domino.
 
 ### I did some prediction, during the training, specifically after completion of 9 epochs.
 07-24 11:41:30 Ground Truth :gradually relief came to all of us
+ 
 07-24 11:41:30 ArSI Prediction :gradually beleve came all of us
+
 07-24 11:41:30 Word Error Rate :0.2857142857142857 Charchter Error Rate:0.20588235294117646
 
+
 07-24 11:41:47 Ground Truth :i promise you i will do you no harm
+
 07-24 11:41:47 ArSI Prediction :i proase you i will do you no harm
+
 07-24 11:41:47 Word Error Rate :0.1111111111111111 Charchter Error Rate:0.05714285714285714
 
+
 07-24 11:41:52 Ground Truth :i could not help my friend
+
 07-24 11:41:52 ArSI Prediction :i could not help my friend
+
 07-24 11:41:52 Word Error Rate :0.0 Charchter Error Rate:0.0
 
+
 07-24 11:42:01 Ground Truth :she had lost him years and years before and now she saw him he was there and she knew him
+
 07-24 11:42:01 ArSI Prediction :she had lostd him years an years before and now she ta him he was there and she knew him
 07-24 11:42:01 Word Error Rate :0.15 Charchter Error Rate:0.0449438202247191
 
